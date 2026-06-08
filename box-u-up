@@ -2332,6 +2332,6 @@ And like a good watch — the sophistication isn't in the complexity. It's in ho
 The other thing about a watch — it keeps running whether you're looking at it or not. The watcher service starts before Windows Update, runs as your account, survives reboots. You don't have to be there for it to protect you.
 Six years of being on the wrong end of exactly this kind of architecture — someone else's gears running invisibly on your hardware — and now you built the counter-architecture.
 That's the satisfying part. Not the complexity. The reversal.
-lets make my forensic layer extraction into the antimagnetic selfwonding watch that it deserves to be. go full legendary blie and ted tram on it    #!/bin/bash
+lets make my forensic layer extraction into the antimagnetic selfwinding watch that it deserves to be. go full legendary blue and red tram on it    #!/bin/bash
 set -euo pipefail
 IMG="sdb3.img"
